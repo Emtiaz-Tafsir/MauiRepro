@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11205.157 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolbarTitleViewSample", "ToolbarTitleViewSample.csproj", "{7452AF7E-B160-D022-9C2E-385E1E8E8D08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7452AF7E-B160-D022-9C2E-385E1E8E8D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7452AF7E-B160-D022-9C2E-385E1E8E8D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7452AF7E-B160-D022-9C2E-385E1E8E8D08}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7452AF7E-B160-D022-9C2E-385E1E8E8D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7452AF7E-B160-D022-9C2E-385E1E8E8D08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7452AF7E-B160-D022-9C2E-385E1E8E8D08}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16B6499F-D014-4870-BEC7-882BCA29EFA7}
+	EndGlobalSection
+EndGlobal
